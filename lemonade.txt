@@ -2,5 +2,5 @@ limonata tarifi
 
 1. limon
 2. su
-3. 1 küp seker
+3. 1 küp seker conflict
 4. nane
