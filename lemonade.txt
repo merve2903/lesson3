@@ -2,5 +2,9 @@ limonata tarifi
 
 1. limon
 2. su
+<<<<<<< HEAD
 3. seker
+=======
+3. 1 küp seker conflict
+>>>>>>> feature
 4. nane
